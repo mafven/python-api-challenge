@@ -1,0 +1,24 @@
+,City,Latitudes,Longitudes,Temperature,Humidity,Cloudiness,Wind_Speed,Country,Date,Hotel Name,Hotel Address,Hotel Rating
+4,Sittwe,20.15,92.9,23.64,38,0,2.99,MM,1612669818,Hotel Memory,"19, Akaut Yone Street, Kyae Oin Gyi Quarter, Sittwe",3.8
+47,Vao,-22.6667,167.4833,25.86,80,0,5.09,NC,1612669545,OURE TERA beach resort,Kuto,4.3
+111,Marsh Harbour,26.5412,-77.0636,23.81,89,0,7.91,BS,1612669893,Abaco Beach Resort,"Bay St, Marsh Harbour",4.2
+167,Puri,19.8,85.85,22.0,49,0,3.09,IN,1612669930,Hotel Golden Palace Puri,"On Blue Flag Golden Beach of Puri, V.I.P Road, near Subash Chandra Bose Square, Puri",4.2
+183,Betioky,-23.7167,44.3833,25.32,79,0,1.05,MG,1612669941,Betioky,"Betioky, Madagascar",
+188,Imbituba,-28.24,-48.6703,22.0,73,0,2.06,BR,1612669944,Praia Hotel Imbituba,"mts do Porto de Imbituba - R. Manoel Antônio de Souza 864, Imbituba – SC 1.000 - Centro, Imbituba",4.6
+194,Jati,24.3539,68.2671,21.64,22,0,3.16,PK,1612669949,National Bank of Pakistan,Jati,2
+209,Acajutla,13.5928,-89.8275,24.55,74,0,2.19,SV,1612669960,Villavela Hotel Boutique,"Avenida Miramar, Acajutla",4.5
+212,Jieshi,22.8134,115.8257,22.22,62,0,6.85,CN,1612669962,维也纳酒店,陆丰碣石镇玄武路4号,0
+216,Pindorama,-21.1858,-48.9072,23.0,49,0,1.54,BR,1612669965,PINDORAMA GOLDEN PLAZA HOTEL,"Av. João de Souza Sobrinho, 1790 - Jardim Primavera, Pindorama",4.3
+251,Camocim,-2.9022,-40.8411,25.1,86,0,4.34,BR,1612669987,Villa del Mar Praia Hotel,"Estr. Olho Dágua, s/n, Camocim",4.3
+253,Keti Bandar,24.1447,67.4497,21.99,22,0,3.21,PK,1612669988,,,
+293,Hong Kong,22.2855,114.1577,25.0,38,0,6.69,HK,1612669847,The OTTO Hotel,"8 Cameron Rd, Tsim Sha Tsui",4.4
+301,Los Negros,-17.7333,-63.4333,24.0,88,0,2.06,BO,1612670019,,,
+335,Hambantota,6.1241,81.1185,26.0,94,0,3.6,LK,1612669482,The Peacock Beach Hotel Hambantota,"No 35, Hambantota",3.7
+378,Paraíso,9.8383,-83.8656,22.0,73,0,3.6,CR,1612670068,Hotel Rio Perlas Spa and Resort,"2 kilómetros oeste de puente negro, Orosi, Orosí",4.3
+387,Sakaraha,-22.9,44.5333,23.81,82,0,2.29,MG,1612670073,Adala,Sakaraha,0
+408,Launceston,-41.45,147.1667,23.33,40,0,5.14,AU,1612669985,Pod Inn,"17-19 Wellington St, Launceston",4.6
+529,Cockburn Town,21.4612,-71.1419,25.09,78,0,9.88,TC,1612670125,Osprey Beach Hotel,"1 Duke St, Cockburn Town",4.4
+539,San-Pédro,4.7485,-6.6363,25.31,92,0,2.53,CI,1612670172,Hôtel Palm Rock Beach,"Boulevard Houphouët-Boigny, San-Pédro",3.8
+616,Pitimbu,-7.4706,-34.8086,26.0,83,0,1.54,BR,1612669718,Pousada O Nativo,"R. Antônio Taváres, 80, Pitimbu",4.2
+672,Verāval,20.9,70.3667,23.62,29,0,7.16,IN,1612670257,HOTEL PLATINUM,"Bus Stand, Hotel Platinum, opp. Veraval, Veraval",4.8
+710,Diu,20.7141,70.9822,22.5,28,0,7.74,IN,1612670280,Hotel TGH - The Grand Highness,"Off, Fort Rd, near Hotel Prince, Main Bazar, Diu",4.3
